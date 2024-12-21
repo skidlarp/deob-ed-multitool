@@ -1,0 +1,20 @@
+fix the errors yourself or just steal the dc bot nuke/raid cmds LOL (real)
+
+
+#################og readme########################
+
+Do not Change any code of "main.bat" it will ruin the whole Multitool.
+This tool is halfly pasted, i pased most of the stuff of GitHub. But most of it i fixxed, i do not sell this and if you purchased this you got scammed.
+
+
+Requirements, Latest python version
+Make sure to type, "pip install -r requirements.txt" in cmd
+And type "pip install -r requirements.txt"
+
+
+
+
+If you Need any help contact me via telegramm
+t.me/derkstaware
+or discord
+imnotderkdontbanme - https://discord.gg/6tqvx735an

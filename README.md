@@ -1,2 +1,1 @@
-This tool has alot of features.
-![image](https://github.com/user-attachments/assets/22e6f1df-cc42-49c0-8c83-bfddef460404)
+this tool is shit i saw it on yt and was like "can i de ob it" and i could! and i made the .exe a .py cause they have no reverse engineer (if you would call it that since its python) protection im tired its 4 am rn!
